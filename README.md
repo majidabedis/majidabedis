@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Majid Abedi, an aspiring Backend Developer with a strong interest in growing my skills and building amazing projects! 🚀
+I'm Majid Abedi, an aspiring Backend/Frontend Developer with a strong interest in growing my skills and building amazing projects! 🚀
 
 About Me:
 
