@@ -13,17 +13,15 @@ I enjoy understanding systems beneath the surface, solving complex problems, and
 <img width="60" height="65" alt="images (11)" src="https://github.com/user-attachments/assets/ea746787-eacb-409b-965c-0c0150f464d3" />
 <img width="60" height="65" alt="images (10)" src="https://github.com/user-attachments/assets/a9873aa5-bbac-4084-b155-bf54dba7335d" />
 <img width="60" height="65" alt="images (9)" src="https://github.com/user-attachments/assets/34de2755-55e5-4dd3-9a35-3097cb99069d" />
-<img width="60" height="65" alt="images (8)" src="https://github.com/user-attachments/assets/95f214ce-0545-4891-ad4e-49f8409424f2" />
+<img width="60" height="65" alt="images" src="https://github.com/user-attachments/assets/74bbaa7a-d6f8-4b4f-9f97-db94434a58df" />
 <img width="60" height="65" alt="ex" src="https://github.com/user-attachments/assets/7053e2f4-e54c-4f77-a2c9-396f5ee0cc1e" />
 <img width="60" height="65" alt="images" src="https://github.com/user-attachments/assets/8cc10582-0242-48d5-817c-ddf4473836a4" />
-<img width="60" height="65" alt="images (6)" src="https://github.com/user-attachments/assets/b283a8d8-ff58-48ab-a7a9-516038c9fc9b" />
+<img width="60" height="65" alt="images" src="https://github.com/user-attachments/assets/a3252f51-9b8d-4a8e-93fc-cc4aa7951efa" />
 <img width="60" height="65" alt="html" src="https://github.com/user-attachments/assets/c3fa366f-5487-4ae0-a7f7-f3035cd0f778" />
 <img width="60" height="65" alt="next" src="https://github.com/user-attachments/assets/28313581-542d-4656-ad8a-13085cfc9810" />
 <img width="60" height="65" alt="images (3)" src="https://github.com/user-attachments/assets/db8ba365-3d38-4e9f-bb01-f9029faaf231" />
 <img width="60" height="65" alt="c#" src="https://github.com/user-attachments/assets/04268f02-ae7c-44cd-8d19-04f152d89fed" />
 <img width="65" height="65" alt="images (16)" src="https://github.com/user-attachments/assets/778982e0-1edf-43a3-9f23-1e810c764980" />
-
-
 
 ## What I Do
 
